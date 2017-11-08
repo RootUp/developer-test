@@ -4,6 +4,10 @@ This test can be conducted in any language, but PHP would be preferred. Once com
 
 Email: tech@smarterly.co.uk of you require more information.
 
+__Note:__ You may make sure of some framework components, like handling console outputs/inputs but the gameplay logic must be your own. 
+
+This code should be fully unit tested.
+
 ## Test
 You must write a game with the following rules.
 
